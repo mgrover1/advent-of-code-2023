@@ -1,0 +1,9 @@
+name: advent-of-code-2023
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - jupyterlab
+  - ipython
